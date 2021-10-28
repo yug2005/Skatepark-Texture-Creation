@@ -1,5 +1,7 @@
 # Skatepark Texture Creation
 
+![preview image](https://github.com/yug2005/Skatepark-Texture-Creation/blob/master/Project%20Images/Skatepark%20Preview%20Image%2004.png)
+
 ## Summary 
 
 This texture creation project in Adobe Substance Painter contains the main *Adobe Substance Painter 3D Project* (`.spp`) file and the texture sets created for the 3D model of a skatepark. 
